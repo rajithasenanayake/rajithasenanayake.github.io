@@ -1,3 +1,8 @@
+### Professional Summary
+---------
+Experienced in managing full-cycle data science projects, from acquisition and analysis to deployment and integration. Skilled in statistical inference, spatial analysis, and unsupervised machine learning, with proven success as a Data Science and Engineering Associate delivering impactful solutions through cross-functional collaboration. As a Teaching Assistant, guided students in R and Python, fostering advanced data analysis and high-quality coding practices.
+
+
 ### Work Experience
 ---------
 * McMaster University - Hamilton, Canada
