@@ -18,6 +18,11 @@ Experienced in managing full-cycle data science projects, from acquisition and a
 * University of Peradeniya -  Peradeniya, Sri Lanka
   - <span style="font-size:0.9em;">B.Sc. in Statistics and Operations Research (Dec 2017 - Aug 2022)</span>
 
+### Projects
+---------
+* [A Robust Nonparametric Framework for Repeated Spatial Clustering](https://rajithasenanayake.github.io/repeated-spatial-clustering/)
+* Colombo Suburb Analysis for Mall Placement
+
 ### Certifications
 ---------
 * [Microsoft Certified Azure Data Science Associate](https://learn.microsoft.com/en-us/users/rajithasenanayake-0235/credentials/b254762fee0e13e?ref=https%3A%2F%2Fwww.linkedin.com%2F) (2024)
