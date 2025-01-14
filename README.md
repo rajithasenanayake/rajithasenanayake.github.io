@@ -1,5 +1,3 @@
-# Gradute Student
-
 ### Work Experience
 ---------
 * McMaster University - Hamilton, Canada
@@ -23,3 +21,6 @@
 
 ### Skills
 ---------
+* Languages - Python, PySpark, R, SQL, C, JAVA
+* Technologies - Azure, Git, Databricks, Tableau, Power BI, TensorFlow, GeoPandas
+* Expertise - Spatial Statistics, A/B Testing, Statistical Inferences, Machine Learning, Technical Writing
