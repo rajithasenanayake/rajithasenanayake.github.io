@@ -1,7 +1,7 @@
 title: Rajitha Senanayake
 logo: /portfolio_reduzed.png
 # description: rajithasenanayake@outlook.com
-show_downloads: False
+show_downloads: True
 github:
   is_user_page: False
   is_project_page: False
