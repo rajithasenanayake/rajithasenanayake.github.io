@@ -3,8 +3,10 @@ logo: /portfolio_reduzed.png
 # description: rajithasenanayake@outlook.com
 show_downloads: False
 github:
-  is_user_page: True
-  is_project_page: True
+  is_user_page: False
+  is_project_page: False
+  zip_url: https://www.linkedin.com/in/rajithasenanayake/
+  tar_url: https://medium.com/@sarsenanayake
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
