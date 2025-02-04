@@ -6,6 +6,7 @@ Experienced in managing full-cycle data science projects, from acquisition and a
 ## Projects
 ---------
 * [A Robust Nonparametric Framework for Repeated Spatial Clustering](https://rajithasenanayake.github.io/repeated-spatial-clustering/)
+* [Retrival Augmented Generation (RAG) Based Watch Recommendation App](https://getyouralpinist.streamlit.app/)
 * Colombo Suburb Analysis for Mall Placement
 
 
