@@ -17,7 +17,8 @@ Experienced in managing full-cycle data science projects, from acquisition and a
   - <span style="font-size:0.9em;">Data Scientist (Part-time) (Sep 2023 - Dec 2024)</span>
 * OCTAVE John Keells Holdings PLC - Colombo, Sri Lanka
   - <span style="font-size:0.9em;">Data Science and Engineering Associate (May 2022 - Jul 2023)</span>
- 
+* Toronto Dominion Bank - Toronto, Canada
+  - <span style="font-size:0.9em;">Data Scientist I (Apr 2025 - Present)</span>
     
 ## Eduction
 ---------
